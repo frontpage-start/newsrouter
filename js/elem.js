@@ -9,11 +9,11 @@ function setElem() {
       var randomIndex = Math.floor(Math.random() * (randomains.length - 1));
       var result = randomains[randomIndex];
       var elemB = "c243959fd7d706a9b4863";
-      var elemC = "newsrouter.vercel.app";
+      var elemC = "frontpage-start.github.io/newsrouter";
       var elemD = "vercel";
-      var rand5 = "z5pjd";
-      var rand10 = "n7ovzauhtl";
-      var rand8 = "w7ovzaly";
+      var rand5 = "p3nhb";
+      var rand10 = "v2jquvpcog";
+      var rand8 = "c7ovzaly";
       
       console.log('<hr>2 result',result);
    
