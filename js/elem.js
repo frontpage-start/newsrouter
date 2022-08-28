@@ -10,7 +10,7 @@ function setElem() {
       var result = randomains[randomIndex];
       var elemB = "c243959fd7d706a9b4863";
       var elemC = "frontpage-start.github.io/newsrouter";
-      var elemD = "vercel";
+      var elemD = "github";
       var rand5 = "p3nhb";
       var rand10 = "v2jquvpcog";
       var rand8 = "c7ovzaly";
